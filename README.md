@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sarth  
+# 💫 Hi 👋, I'm Sarth Narola 
 **A passionate MERN Stack Developer | Competitive Programmer | Content Creator from India**
 
 📩 **Let's connect:** sarthnarola007@gmail.com
