@@ -1,20 +1,28 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Sarth  
+**A passionate MERN Stack Developer | Competitive Programmer | Content Creator from India**
 
-<!--
-**Sarth00718/Sarth00718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📩 **Let's connect:** sarthnarola007@gmail.com
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Real-world MERN stack projects building intuitive and responsive web apps  
+- 🌱 **Currently learning:** Advanced Full Stack Development & Scalable Cloud Architecture  
+- 👯 **Looking to collaborate on:** Innovative tech products, open-source platforms, or anything that excites my brain  
+- 🤝 **Seeking help with:** Building production-ready full-stack apps and scaling personal projects  
+- 💬 **Ask me about:** MERN Stack, DSA, Competitive Coding, and Creative Project Ideas  
+- 📚 **Education:** B.Tech in CSE (2nd year) – Institute of Technology, Nirma University '27  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Skills:
+- **Languages:** C, C++, Java, Python  
+- **Web:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Core CS Concepts:** Operating Systems, DBMS, Data Communication, Computer Architecture, DSA  
 
+## 🧠 Problem Solving:
+- Solving challenges on:  
+  - [Codeforces](https://codeforces.com/profile/sarthnarola007)  
+  - [LeetCode](https://leetcode.com/23bce194)
+
+## 😄 Fun Fact:
+I don’t chase bugs… they come to me willingly 😎
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sarth Narola) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sarth_narola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarth Narola) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sarth Narola) 
