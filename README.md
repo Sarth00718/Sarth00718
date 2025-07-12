@@ -8,11 +8,12 @@
 - 👯 **Looking to collaborate on:** Innovative tech products, open-source platforms, or anything that excites my brain  
 - 🤝 **Seeking help with:** Building production-ready full-stack apps and scaling personal projects  
 - 💬 **Ask me about:** MERN Stack, DSA, Competitive Coding, and Creative Project Ideas  
-- 📚 **Education:** B.Tech in CSE (2nd year) – Institute of Technology, Nirma University '27  
+- 📚 **Education:** B.Tech in CSE (3nd year) – Institute of Technology, Nirma University '27  
 
 ## 💻 Tech Skills:
 - **Languages:** C, C++, Java, Python  
-- **Web:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Web:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node, Express, ReactJs with Context-API
+- **Darabase:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code  
 - **Core CS Concepts:** Operating Systems, DBMS, Data Communication, Computer Architecture, DSA  
 
