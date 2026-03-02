@@ -346,7 +346,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 |:---|:---|:---|
 | 🎯 | **Amazon ML Summer School 2025** | Selected Participant |
 | 🏆 | **Mind Sprint 48-Hr Hackathon + SIH 2025** | International Hackathon — IronXman, Unstop, SIH 2025 |
-| ⭐ | **Leetcode + CodeChef-2★ + Codeforces** | Rated Competitive Programmer |
+| ⭐ | **LeetCode + CodeChef 2★ + Codeforces** | Rated Competitive Programmer |
 | 🎓 | **CGPA 9.10** | B.Tech CSE — Nirma University |
 
 </div>
@@ -358,15 +358,15 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <div align="center">
 
 <a href="https://www.codechef.com/users/sarthnarola007">
-<img src="https://cp-logo.vercel.app/codechef/sarthnarola007" alt="CodeChef" height="40"/>
+<img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://codeforces.com/profile/sarthnarola007">
-<img src="https://cp-logo.vercel.app/codeforces/sarthnarola007" alt="Codeforces" height="40"/>
+<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://leetcode.com/23bce194">
-<img src="https://cp-logo.vercel.app/leetcode/23bce194" alt="LeetCode" height="40"/>
+<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br/><br/>
@@ -398,14 +398,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 <!-- STREAK STATS -->
 <a href="https://github.com/Sarth00718">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Sarth00718">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarth00718&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B&area=true&area_color=4FC3F7&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
 </a>
 
 </div>
@@ -417,23 +410,21 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <div align="center">
 
 <a href="https://github.com/Sarth00718">
-<img src="https://github-profile-trophy.vercel.app/?username=Sarth00718&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sarth00718&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7"/>
 </a>
 
 </div>
 
 ---
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-## 🐍 Contribution Graph
+## � Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-snake-dark.svg" />
-</picture>
+<a href="https://github.com/Sarth00718">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarth00718&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B&area=true&area_color=1a1b27&hide_border=true&custom_title=Sarth's%20Contribution%20Graph" width="100%"/>
+</a>
 
 </div>
 
@@ -495,4 +486,4 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 *⭐ If you find my work interesting, consider giving a star!*
 
-</div>  
+</div>
