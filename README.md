@@ -385,13 +385,23 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 <div align="center">
 
-<!-- GITHUB STATS CARD -->
+<!-- STATS & LANGUAGES (using profile-summary-cards — reliable) -->
 <a href="https://github.com/Sarth00718">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarth00718&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarth00718&theme=tokyonight" height="180em"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Sarth00718">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarth00718&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarth00718&theme=tokyonight" height="180em"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Sarth00718">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarth00718&theme=tokyonight" height="180em"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Sarth00718">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarth00718&theme=tokyonight&utcOffset=5.5" height="180em"/>
 </a>
 
 <br/><br/>
@@ -399,6 +409,13 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <!-- STREAK STATS -->
 <a href="https://github.com/Sarth00718">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE DETAILS -->
+<a href="https://github.com/Sarth00718">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarth00718&theme=tokyonight" width="100%"/>
 </a>
 
 </div>
@@ -410,7 +427,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <div align="center">
 
 <a href="https://github.com/Sarth00718">
-<img src="https://github-profile-trophy.vercel.app/?username=Sarth00718&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=Sarth00718&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7"/>
 </a>
 
 </div>
@@ -420,7 +437,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-## � Contribution Graph
+## 📈 Contribution Graph
 
 <a href="https://github.com/Sarth00718">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarth00718&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B&area=true&area_color=1a1b27&hide_border=true&custom_title=Sarth's%20Contribution%20Graph" width="100%"/>
@@ -449,24 +466,6 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 ---
 
-<!-- PROFILE SUMMARY CARD -->
-<div align="center">
-
-<a href="https://github.com/Sarth00718">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarth00718&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Sarth00718">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarth00718&theme=tokyonight"/>
-</a>
-<a href="https://github.com/Sarth00718">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarth00718&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <!-- FOOTER WAVE -->
@@ -486,4 +485,4 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 *⭐ If you find my work interesting, consider giving a star!*
 
-</div>
+</div>         
