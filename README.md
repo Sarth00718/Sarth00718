@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=280&section=header&text=Sarth%20Narola&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=19&descAlignY=54&descColor=4FC3F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=280&section=header&text=Sarth%20Narola&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=19&descAlignY=54&descColor=4FC3F7&v=2"/>
 
 <!-- WAVING HAND -->
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 <b>Hey, I'm Sarth — welcome to my corner of GitHub!</b>
 
 <br/><br/>
@@ -53,7 +53,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/aditya-sriv/aditya-sriv/main/images/coding.gif"/>
+<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
 Name:       Sarth Narola
@@ -200,9 +200,9 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 
 ## 💼 Experience
 
-<table>
+<table border="1" cellpadding="18" cellspacing="0" width="100%">
 <tr>
-<td width="100%">
+<td width="100%" bgcolor="#0f141c">
 
 ### 🏢 Full Stack Developer Intern — UNIKWORK
 **May 2026 – June 2026 · Surat, Gujarat, India**
@@ -229,9 +229,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 📂 Core Full-Stack & AI Projects
 
-<table>
+<table border="1" cellpadding="18" cellspacing="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 🤖 FinChatBot
 **AI Chatbot for Financial Document Analysis**
@@ -251,7 +251,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 [🔗 Repo](https://github.com/Sarth00718/Financial-Chatbot-) · [🚀 Live](https://financial-chabot.vercel.app/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 💰 Smart Expense Tracker
 **Personal Finance Tracker with AI Insights**
@@ -271,7 +271,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 👗 Vastra
 **Full MERN Stack Clothing Store**
@@ -288,7 +288,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 [🔗 Repo](https://github.com/Sarth00718/Vastra-cloth-shop) · [🚀 Live](https://vastra-cloth-shop-oirs.vercel.app/login)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 💬 Real-Time Chat App
 **MERN WebSocket Messaging App**
@@ -314,9 +314,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 🚀 Hackathon & Innovation Projects
 
-<table>
+<table border="1" cellpadding="18" cellspacing="0" width="100%">
 <tr>
-<td width="100%">
+<td width="100%" bgcolor="#0f141c">
 
 ### 🍽️ SmartBite — AI-Powered Meal Planner & Nutrition Assistant
 > 🏆 *Mind Sprint 48-Hour International Hackathon (IronXman, Unstop)*
@@ -341,9 +341,11 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </tr>
 </table>
 
-<table>
+<br/>
+
+<table border="1" cellpadding="18" cellspacing="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 🎬 ClipCrafters
 **Turn Documents into Videos with AI**
@@ -360,7 +362,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 [🔗 Repo](https://github.com/Sarth00718/ClipCrafters)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0f141c">
 
 ### 🚛 FleetFlow
 **Fleet & Logistics Management System**
@@ -377,7 +379,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="100%" valign="top" colspan="2" bgcolor="#0f141c">
 
 ### 💼 Exe$Man
 **Multi-Level Expense Approval & Management System**
@@ -400,9 +402,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 🧪 Machine Learning Projects
 
-<table>
+<table border="1" cellpadding="18" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" bgcolor="#0f141c">
 
 ### 🍷 Wine Quality Prediction
 **14 ML Models Compared**
@@ -414,7 +416,7 @@ Feature engineering, stratified K-fold CV, and ensemble stacking.
 [🔗 Repo](https://github.com/Sarth00718/Wine-Quality-Prediction)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" bgcolor="#0f141c">
 
 ### ❤️ Heart Attack Risk Prediction
 **Clinical Risk Classification**
@@ -426,7 +428,7 @@ SMOTE for class imbalance, ROC-AUC evaluation.
 [🔗 Repo](https://github.com/Sarth00718/heart-attack-prediction)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top" bgcolor="#0f141c">
 
 ### 🌍 Global Superstore Analytics
 **51K+ Record Retail Dataset**
@@ -696,4 +698,4 @@ jobs:
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1b27,100:0d1117&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1b27,100:0d1117&height=150&section=footer&v=2"/>
