@@ -1,7 +1,14 @@
+<a name="readme-top"></a>
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=220&section=header&text=Sarth%20Narola&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=18&descAlignY=55&descColor=4FC3F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=280&section=header&text=Sarth%20Narola&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=19&descAlignY=54&descColor=4FC3F7"/>
+
+<!-- WAVING HAND -->
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
+<b>Hey, I'm Sarth — welcome to my corner of GitHub!</b>
+
+<br/><br/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%8E%AF+Amazon+ML+Summer+School+2025+%E2%80%94+Selected;%F0%9F%92%BB+MERN+Stack+%7C+AI%2FML+%7C+Competitive+Programming;%F0%9F%8E%93+Nirma+University+%E2%80%94+CGPA+9.11)](https://git.io/typing-svg)
@@ -18,22 +25,42 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Sarth00718&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sarth00718&label=Profile%20Views&color=4FC3F7&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Full--time%20from%20June%202027-4FC3F7?style=for-the-badge&labelColor=1a1b27&logo=briefcase&logoColor=white" alt="Open to work"/>
 
 </div>
 
-<!-- WAVE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+
+<!-- QUICK NAV -->
+<div align="center">
+
+**📍 Quick Navigate:** &nbsp;
+<a href="#-about-me">About</a> •
+<a href="#️-tech-arsenal">Skills</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-core-full-stack--ai-projects">Projects</a> •
+<a href="#-hackathon--innovation-projects">Hackathons</a> •
+<a href="#-achievements--certifications">Achievements</a> •
+<a href="#️-journey-timeline">Timeline</a> •
+<a href="#-github-analytics">Stats</a> •
+<a href="#-lets-connect">Contact</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<img align="right" width="290" src="https://raw.githubusercontent.com/aditya-sriv/aditya-sriv/main/images/coding.gif"/>
 
 ```yaml
 Name:       Sarth Narola
 Location:   Surat, Gujarat, India
 Education:  B.Tech in Computer Engineering — Nirma University (2023–2027) | CGPA: 9.11
 Focus:      Full Stack Development • AI/ML Integration • Competitive Programming
-Status:     Open to Full-time & Internship opportunities from June 2027
+Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 ```
 
 <table>
@@ -64,11 +91,25 @@ Status:     Open to Full-time & Internship opportunities from June 2027
 </tr>
 </table>
 
----
+<br clear="right"/>
+
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🛠️ Tech Arsenal
 
-<details>
+<div align="center">
+
+### At a Glance
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,nextjs,redux,tailwind,html,css,nodejs,express,fastapi,mongodb,postgres,mysql,firebase,git,github,docker,vscode,postman,vercel&theme=dark&perline=12" />
+
+</div>
+
+<br/>
+
+<details open>
 <summary><b>🔤 Languages</b></summary>
 <br/>
 <div align="center">
@@ -153,7 +194,9 @@ Status:     Open to Full-time & Internship opportunities from June 2027
 </div>
 </details>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 💼 Experience
 
@@ -180,7 +223,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </tr>
 </table>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 📂 Core Full-Stack & AI Projects
 
@@ -263,7 +308,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </tr>
 </table>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🚀 Hackathon & Innovation Projects
 
@@ -347,7 +394,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </tr>
 </table>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🧪 Machine Learning Projects
 
@@ -392,7 +441,9 @@ Sales forecasting + interactive dashboards.
 </tr>
 </table>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🧩 DSA & Core CS Projects
 
@@ -407,7 +458,9 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🏅 Achievements & Certifications
 
@@ -424,23 +477,33 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🗺️ Journey Timeline
 
 <div align="center">
 
-| Year | Milestone |
-|:---:|:---|
-| **2023** | Started B.Tech in Computer Engineering at Nirma University (Roll No. 23BCE194) |
-| **2024** | Focused on competitive programming — Codeforces & LeetCode consistency |
-| **2025** | Smart India Hackathon 2025 · Mind Sprint 48-Hour Hackathon · **Selected for Amazon ML Summer School 2025** |
-| **2026** | Hackamind Hackathon @ Nirma · Full Stack Developer Internship @ **UNIKWORK** |
-| **2027** | Graduating with B.Tech CGPA 9.11 — **open to full-time roles from June 2027** |
+```mermaid
+timeline
+    title Sarth's Journey
+    2023 : Started B.Tech CSE @ Nirma University
+    2024 : Competitive Programming Focus (Codeforces · LeetCode)
+    2025 : Smart India Hackathon 2025
+         : Mind Sprint 48-Hour Hackathon
+         : Selected — Amazon ML Summer School 2025
+    2026 : Hackamind Hackathon @ Nirma
+         : Full Stack Developer Intern @ UNIKWORK
+    2027 : Graduating — CGPA 9.11
+         : Open to full-time roles from June 2027
+```
 
 </div>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 💡 Competitive Programming
 
@@ -466,9 +529,15 @@ Sales forecasting + interactive dashboards.
 | ![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white) | [sarthnarola007](https://codeforces.com/profile/sarthnarola007) | Active |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black) | [__sarth_narola_007](https://leetcode.com/u/__sarth_narola_007/) | Active |
 
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/__sarth_narola_007?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
 </div>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 📊 GitHub Analytics
 
@@ -494,7 +563,7 @@ Sales forecasting + interactive dashboards.
 
 <br/><br/>
 
-<!-- STREAK STATS -->
+<!-- STREAK STATS (animated counters) -->
 <a href="https://github.com/Sarth00718">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
 </a>
@@ -507,9 +576,7 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -519,11 +586,69 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
+### 🐍 Contribution Snake (Animated)
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sarth00718/Sarth00718/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>🔧 Renders once the <code>snake.yml</code> workflow below runs on the <code>Sarth00718/Sarth00718</code> repo — see setup steps.</sub>
+
+</div>
+
+<details>
+<summary>⚙️ <b>One-time setup: enable the animated snake above</b></summary>
+
+1. In your **`Sarth00718/Sarth00718`** profile repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: Sarth00718
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it — the action runs automatically and publishes the SVGs to an `output` branch.
+3. The image links above will then render live.
+
+</details>
+
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+
 ## 📈 Contribution Graph
+
+<div align="center">
 
 <a href="https://github.com/Sarth00718">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarth00718&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B&area=true&area_color=1a1b27&hide_border=true&custom_title=Sarth's%20Contribution%20Graph" width="100%"/>
@@ -531,16 +656,12 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
-
 <div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
 
 ### 🔝 Top Contributed Repos
 
@@ -550,12 +671,13 @@ Sales forecasting + interactive dashboards.
 
 </div>
 
----
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+
+## 🌀 Let's Connect
 
 <div align="center">
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1b27,100:0d1117&height=120&section=footer"/>
 
 **💼 Open to full-time & internship opportunities — available from June 2027**
 
@@ -567,8 +689,11 @@ Sales forecasting + interactive dashboards.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Thankyou.gif" width="70"/>
 
 *⭐ If you find my work interesting, consider giving a star!*
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1b27,100:0d1117&height=150&section=footer"/>
