@@ -29,6 +29,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Full--time%20from%20June%202027-4FC3F7?style=for-the-badge&labelColor=1a1b27&logo=briefcase&logoColor=white" alt="Open to work"/>
 
+<br/><br/>
+
+<!-- SCROLL CUE -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="90"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
@@ -39,9 +44,10 @@
 **📍 Quick Navigate:** &nbsp;
 <a href="#-about-me">About</a> •
 <a href="#️-tech-arsenal">Skills</a> •
-<a href="#-experience">Experience</a> •
 <a href="#-core-full-stack--ai-projects">Projects</a> •
 <a href="#-hackathon--innovation-projects">Hackathons</a> •
+<a href="#-machine-learning-projects">ML</a> •
+<a href="#-dsa--core-cs-projects">DSA</a> •
 <a href="#-achievements--certifications">Achievements</a> •
 <a href="#️-journey-timeline">Timeline</a> •
 <a href="#-github-analytics">Stats</a> •
@@ -70,7 +76,6 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 ### 🎯 Quick Highlights
 
 - 🏫 **Amazon ML Summer School '25** — Selected Participant
-- 💼 **Full Stack Developer Intern** @ UNIKWORK (2026)
 - 🏆 **Smart India Hackathon 2025, Mind Sprint (IronXman), Hackamind**
 - ⭐ **CodeChef 2★** Rated Competitive Programmer
 - 🔬 Building **AI-powered full stack applications** with RAG pipelines
@@ -104,6 +109,11 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 ### At a Glance
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,nextjs,redux,tailwind,html,css,nodejs,express,fastapi,mongodb,postgres,mysql,firebase,git,github,docker,vscode,postman,vercel&theme=dark&perline=12" />
+
+<br/><br/>
+
+<!-- ANIMATED SKILL TICKER -->
+[![Skills Ticker](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=8E9AAF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+FastAPI;LangChain+%7C+RAG+%7C+Vector+DBs;MongoDB+%7C+PostgreSQL+%7C+MySQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -198,41 +208,7 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
-## 💼 Experience
-
-<table width="100%" cellspacing="0" cellpadding="0" border="1">
-<tr><td bgcolor="#132435">
-
-**🏢 Full Stack Developer Intern — UNIKWORK**
-&nbsp;&nbsp;·&nbsp;&nbsp;*May 2026 – June 2026 · Surat, Gujarat, India*
-
-</td></tr>
-<tr><td bgcolor="#0d1117" cellpadding="18">
-
-Worked on the **UNIKWORK Dashboard**, a production-level project management platform used for task tracking and business workflow management, collaborating closely with senior frontend and backend developers in an agile environment.
-
-- 🧩 Built production-ready **React.js + Next.js** components with a scalable, reusable architecture
-- 🔌 Integrated REST APIs across project, client, employee, asset, task, and auth modules
-- 📋 Built dynamic task management features: board view, list view, task detail, and updates
-- 🔍 Implemented filtering, searching, sorting, pagination, and server-side data handling
-- 📱 Fixed responsive design issues across desktop, tablet, and mobile with pixel-perfect layouts
-- 🐞 Debugged frontend/backend issues, resolved API integration bugs, optimized performance
-- 🤝 Collaborated daily through code reviews, feature discussions, and debugging sessions
-
-`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `REST APIs` `Git` `Postman`
-
-</td></tr>
-</table>
-
-<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
-
 ## 📂 Core Full-Stack & AI Projects
-
-<table width="100%" cellspacing="14" cellpadding="0" border="0">
-<tr>
-<td width="50%" valign="top">
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
@@ -259,8 +235,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td></tr>
 </table>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
@@ -285,10 +260,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td></tr>
 </table>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
@@ -312,8 +284,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td></tr>
 </table>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
@@ -335,10 +306,6 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 [🔗 Repo](https://github.com/Sarth00718/Real-Time-Chat-Application) · [🚀 Live](https://real-time-chat-application-eosin.vercel.app)
 
 </td></tr>
-</table>
-
-</td>
-</tr>
 </table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
@@ -373,10 +340,6 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 <br/>
 
-<table width="100%" cellspacing="14" cellpadding="0" border="0">
-<tr>
-<td width="50%" valign="top">
-
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
 
@@ -399,8 +362,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 </td></tr>
 </table>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
 <tr><td bgcolor="#132435">
@@ -420,10 +382,6 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 [🔗 Repo](https://github.com/Sarth00718/FleetFlow) · [🚀 Live](https://fleet-flow-amber.vercel.app/)
 
 </td></tr>
-</table>
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -453,19 +411,13 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 🧪 Machine Learning Projects
 
-<table width="100%" cellspacing="14" cellpadding="0" border="0">
-<tr>
-<td width="33%" valign="top">
-
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
-<tr><td bgcolor="#132435" align="center">
+<tr><td bgcolor="#132435">
 
-**🍷 Wine Quality Prediction**
+**🍷 Wine Quality Prediction** — *14 ML Models Compared*
 
 </td></tr>
-<tr><td bgcolor="#0d1117" align="center">
-
-*14 ML Models Compared*
+<tr><td bgcolor="#0d1117">
 
 `XGBoost` · `LightGBM` · `CatBoost`
 
@@ -476,18 +428,15 @@ Feature engineering, stratified K-fold CV, and ensemble stacking.
 </td></tr>
 </table>
 
-</td>
-<td width="33%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
-<tr><td bgcolor="#132435" align="center">
+<tr><td bgcolor="#132435">
 
-**❤️ Heart Attack Risk Prediction**
+**❤️ Heart Attack Risk Prediction** — *Clinical Risk Classification*
 
 </td></tr>
-<tr><td bgcolor="#0d1117" align="center">
-
-*Clinical Risk Classification*
+<tr><td bgcolor="#0d1117">
 
 `KNN` · `Logistic Regression` · `Decision Trees`
 
@@ -498,18 +447,15 @@ SMOTE for class imbalance, ROC-AUC evaluation.
 </td></tr>
 </table>
 
-</td>
-<td width="33%" valign="top">
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="1">
-<tr><td bgcolor="#132435" align="center">
+<tr><td bgcolor="#132435">
 
-**🌍 Global Superstore Analytics**
+**🌍 Global Superstore Analytics** — *51K+ Record Retail Dataset*
 
 </td></tr>
-<tr><td bgcolor="#0d1117" align="center">
-
-*51K+ Record Retail Dataset*
+<tr><td bgcolor="#0d1117">
 
 `Decision Tree` · `Regression` · `K-Means` · `Tableau`
 
@@ -518,10 +464,6 @@ Sales forecasting + interactive dashboards.
 [🔗 Repo](https://github.com/Sarth00718/Data-Analysis-and-Visualization-of-Global_Superstore-Dataset)
 
 </td></tr>
-</table>
-
-</td>
-</tr>
 </table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
@@ -581,7 +523,7 @@ Sales forecasting + interactive dashboards.
 </tr>
 <tr>
 <td bgcolor="#132435" align="center" valign="top"><b>2026</b></td>
-<td bgcolor="#0d1117" valign="top">💡 Hackamind Hackathon @ Nirma<br/>💼 Full Stack Developer Intern @ UNIKWORK</td>
+<td bgcolor="#0d1117" valign="top">💡 Hackamind Hackathon @ Nirma</td>
 </tr>
 <tr>
 <td bgcolor="#132435" align="center" valign="top"><b>2027</b></td>
