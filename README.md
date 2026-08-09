@@ -200,12 +200,14 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 
 ## 💼 Experience
 
-<table border="1" cellpadding="18" cellspacing="0" width="100%">
-<tr>
-<td width="100%" bgcolor="#0f141c">
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
 
-### 🏢 Full Stack Developer Intern — UNIKWORK
-**May 2026 – June 2026 · Surat, Gujarat, India**
+**🏢 Full Stack Developer Intern — UNIKWORK**
+&nbsp;&nbsp;·&nbsp;&nbsp;*May 2026 – June 2026 · Surat, Gujarat, India*
+
+</td></tr>
+<tr><td bgcolor="#0d1117" cellpadding="18">
 
 Worked on the **UNIKWORK Dashboard**, a production-level project management platform used for task tracking and business workflow management, collaborating closely with senior frontend and backend developers in an agile environment.
 
@@ -219,8 +221,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `REST APIs` `Git` `Postman`
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
@@ -229,12 +230,17 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 📂 Core Full-Stack & AI Projects
 
-<table border="1" cellpadding="18" cellspacing="0" width="100%">
+<table width="100%" cellspacing="14" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#0f141c">
+<td width="50%" valign="top">
 
-### 🤖 FinChatBot
-**AI Chatbot for Financial Document Analysis**
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**🤖 FinChatBot** — *AI Chatbot for Financial Document Analysis*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -250,11 +256,19 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/Financial-Chatbot-) · [🚀 Live](https://financial-chabot.vercel.app/)
 
-</td>
-<td width="50%" valign="top" bgcolor="#0f141c">
+</td></tr>
+</table>
 
-### 💰 Smart Expense Tracker
-**Personal Finance Tracker with AI Insights**
+</td>
+<td width="50%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**💰 Smart Expense Tracker** — *Personal Finance Tracker with AI Insights*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
@@ -268,13 +282,21 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/Smart-Expense-Tracker) · [🚀 Live](https://smart-expense-tracker-rho-eight.vercel.app/)
 
+</td></tr>
+</table>
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" bgcolor="#0f141c">
+<td width="50%" valign="top">
 
-### 👗 Vastra
-**Full MERN Stack Clothing Store**
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**👗 Vastra** — *Full MERN Stack Clothing Store*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -287,11 +309,19 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/Vastra-cloth-shop) · [🚀 Live](https://vastra-cloth-shop-oirs.vercel.app/login)
 
-</td>
-<td width="50%" valign="top" bgcolor="#0f141c">
+</td></tr>
+</table>
 
-### 💬 Real-Time Chat App
-**MERN WebSocket Messaging App**
+</td>
+<td width="50%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**💬 Real-Time Chat App** — *MERN WebSocket Messaging App*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -304,6 +334,9 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/Real-Time-Chat-Application) · [🚀 Live](https://real-time-chat-application-eosin.vercel.app)
 
+</td></tr>
+</table>
+
 </td>
 </tr>
 </table>
@@ -314,14 +347,14 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 🚀 Hackathon & Innovation Projects
 
-<table border="1" cellpadding="18" cellspacing="0" width="100%">
-<tr>
-<td width="100%" bgcolor="#0f141c">
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
 
-### 🍽️ SmartBite — AI-Powered Meal Planner & Nutrition Assistant
-> 🏆 *Mind Sprint 48-Hour International Hackathon (IronXman, Unstop)*
+**🍽️ SmartBite** — *AI-Powered Meal Planner & Nutrition Assistant*
+&nbsp;&nbsp;·&nbsp;&nbsp;🏆 *Mind Sprint 48-Hour International Hackathon (IronXman, Unstop)*
 
-<div align="center">
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 | Feature | Description |
 |:---|:---|
@@ -333,23 +366,25 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 | 🛒 Smart Grocery Lists | Automated & budget-aware list generation |
 | 🌗 Dark/Light Mode | Responsive UI with PWA offline support |
 
-</div>
-
 [🔗 Repo](https://github.com/Sarth00718/SmartBite)
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
-<table border="1" cellpadding="18" cellspacing="0" width="100%">
+<table width="100%" cellspacing="14" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top" bgcolor="#0f141c">
+<td width="50%" valign="top">
 
-### 🎬 ClipCrafters
-**Turn Documents into Videos with AI**
-> 🏅 *Innovation Award — National Hackathon 2025*
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**🎬 ClipCrafters** — *Turn Documents into Videos with AI*
+&nbsp;&nbsp;·&nbsp;&nbsp;🏅 *Innovation Award — National Hackathon 2025*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 - 📄 Parses PDF, DOCX, PPTX, and TXT uploads
 - 🔗 RAG pipeline with **FAISS + SentenceTransformers**
@@ -361,12 +396,20 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/ClipCrafters)
 
-</td>
-<td width="50%" valign="top" bgcolor="#0f141c">
+</td></tr>
+</table>
 
-### 🚛 FleetFlow
-**Fleet & Logistics Management System**
-> *Built in a 72-hour development sprint*
+</td>
+<td width="50%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**🚛 FleetFlow** — *Fleet & Logistics Management System*
+&nbsp;&nbsp;·&nbsp;&nbsp;*Built in a 72-hour development sprint*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 - 🗄️ **PostgreSQL**-based relational backend
 - 🔐 Role-based access for drivers, managers, admins
@@ -376,13 +419,22 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/FleetFlow) · [🚀 Live](https://fleet-flow-amber.vercel.app/)
 
+</td></tr>
+</table>
+
 </td>
 </tr>
-<tr>
-<td width="100%" valign="top" colspan="2" bgcolor="#0f141c">
+</table>
 
-### 💼 Exe$Man
-**Multi-Level Expense Approval & Management System**
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**💼 Exe$Man** — *Multi-Level Expense Approval & Management System*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
 
 - 📸 OCR receipt scanning — no manual entry
 - ✅ Configurable multi-level approval workflows
@@ -392,8 +444,7 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 [🔗 Repo](https://github.com/Sarth00718/Expense-Management) · [🚀 Live](https://expense-management-gamma.vercel.app/)
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
@@ -402,12 +453,19 @@ Worked on the **UNIKWORK Dashboard**, a production-level project management plat
 
 ## 🧪 Machine Learning Projects
 
-<table border="1" cellpadding="18" cellspacing="0" width="100%">
+<table width="100%" cellspacing="14" cellpadding="0" border="0">
 <tr>
-<td align="center" width="33%" valign="top" bgcolor="#0f141c">
+<td width="33%" valign="top">
 
-### 🍷 Wine Quality Prediction
-**14 ML Models Compared**
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435" align="center">
+
+**🍷 Wine Quality Prediction**
+
+</td></tr>
+<tr><td bgcolor="#0d1117" align="center">
+
+*14 ML Models Compared*
 
 `XGBoost` · `LightGBM` · `CatBoost`
 
@@ -415,11 +473,21 @@ Feature engineering, stratified K-fold CV, and ensemble stacking.
 
 [🔗 Repo](https://github.com/Sarth00718/Wine-Quality-Prediction)
 
-</td>
-<td align="center" width="33%" valign="top" bgcolor="#0f141c">
+</td></tr>
+</table>
 
-### ❤️ Heart Attack Risk Prediction
-**Clinical Risk Classification**
+</td>
+<td width="33%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435" align="center">
+
+**❤️ Heart Attack Risk Prediction**
+
+</td></tr>
+<tr><td bgcolor="#0d1117" align="center">
+
+*Clinical Risk Classification*
 
 `KNN` · `Logistic Regression` · `Decision Trees`
 
@@ -427,17 +495,30 @@ SMOTE for class imbalance, ROC-AUC evaluation.
 
 [🔗 Repo](https://github.com/Sarth00718/heart-attack-prediction)
 
-</td>
-<td align="center" width="33%" valign="top" bgcolor="#0f141c">
+</td></tr>
+</table>
 
-### 🌍 Global Superstore Analytics
-**51K+ Record Retail Dataset**
+</td>
+<td width="33%" valign="top">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435" align="center">
+
+**🌍 Global Superstore Analytics**
+
+</td></tr>
+<tr><td bgcolor="#0d1117" align="center">
+
+*51K+ Record Retail Dataset*
 
 `Decision Tree` · `Regression` · `K-Means` · `Tableau`
 
 Sales forecasting + interactive dashboards.
 
 [🔗 Repo](https://github.com/Sarth00718/Data-Analysis-and-Visualization-of-Global_Superstore-Dataset)
+
+</td></tr>
+</table>
 
 </td>
 </tr>
@@ -485,23 +566,28 @@ Sales forecasting + interactive dashboards.
 
 ## 🗺️ Journey Timeline
 
-<div align="center">
-
-```mermaid
-timeline
-    title Sarth's Journey
-    2023 : Started B.Tech CSE @ Nirma University
-    2024 : Competitive Programming Focus (Codeforces · LeetCode)
-    2025 : Smart India Hackathon 2025
-         : Mind Sprint 48-Hour Hackathon
-         : Selected — Amazon ML Summer School 2025
-    2026 : Hackamind Hackathon @ Nirma
-         : Full Stack Developer Intern @ UNIKWORK
-    2027 : Graduating — CGPA 9.11
-         : Open to full-time roles from June 2027
-```
-
-</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr>
+<td width="12%" bgcolor="#132435" align="center" valign="top"><b>2023</b></td>
+<td bgcolor="#0d1117" valign="top">🎓 Started B.Tech CSE @ Nirma University</td>
+</tr>
+<tr>
+<td bgcolor="#132435" align="center" valign="top"><b>2024</b></td>
+<td bgcolor="#0d1117" valign="top">💻 Competitive Programming Focus (Codeforces · LeetCode)</td>
+</tr>
+<tr>
+<td bgcolor="#132435" align="center" valign="top"><b>2025</b></td>
+<td bgcolor="#0d1117" valign="top">🇮🇳 Smart India Hackathon 2025<br/>⚡ Mind Sprint 48-Hour Hackathon<br/>🏫 Selected — Amazon ML Summer School 2025</td>
+</tr>
+<tr>
+<td bgcolor="#132435" align="center" valign="top"><b>2026</b></td>
+<td bgcolor="#0d1117" valign="top">💡 Hackamind Hackathon @ Nirma<br/>💼 Full Stack Developer Intern @ UNIKWORK</td>
+</tr>
+<tr>
+<td bgcolor="#132435" align="center" valign="top"><b>2027</b></td>
+<td bgcolor="#0d1117" valign="top">🎓 Graduating — CGPA 9.11<br/>🟢 Open to full-time roles from June 2027</td>
+</tr>
+</table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
 
@@ -691,7 +777,7 @@ jobs:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Thankyou.gif" width="70"/>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50"/>
 
 *⭐ If you find my work interesting, consider giving a star!*
 
