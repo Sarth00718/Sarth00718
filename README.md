@@ -1,21 +1,20 @@
-
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=220&section=header&text=Sarth%20Narola&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Integrated%20Full%20Stack%20Engineer&descSize=18&descAlignY=55&descColor=4FC3F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4FC3F7&height=220&section=header&text=Sarth%20Narola&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=18&descAlignY=55&descColor=4FC3F7"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%8E%AF+Amazon+ML+Summer+School+2025+%E2%80%94+Selected;%F0%9F%92%BB+MERN+Stack+%7C+AI%2FML+%7C+Competitive+Programming;%F0%9F%8E%93+Nirma+University+%E2%80%94+CGPA+9.10)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%8E%AF+Amazon+ML+Summer+School+2025+%E2%80%94+Selected;%F0%9F%92%BB+MERN+Stack+%7C+AI%2FML+%7C+Competitive+Programming;%F0%9F%8E%93+Nirma+University+%E2%80%94+CGPA+9.11)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/sarth-narola-223002323"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sarth00718"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:sarthnarola007@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sarthnarola018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/sarthnarola007"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/23bce194"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.codechef.com/users/sarthnarola007"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/__sarth_narola_007/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.codechef.com/users/mds_007"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -32,21 +31,23 @@
 ```yaml
 Name:       Sarth Narola
 Location:   Surat, Gujarat, India
-Education:  B.Tech in CSE — Nirma University (2023–2027) | CGPA: 9.10
+Education:  B.Tech in Computer Engineering — Nirma University (2023–2027) | CGPA: 9.11
 Focus:      Full Stack Development • AI/ML Integration • Competitive Programming
+Status:     Open to Full-time & Internship opportunities from June 2027
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### � Quick Highlights
+### 🎯 Quick Highlights
 
 - 🏫 **Amazon ML Summer School '25** — Selected Participant
-- 🏆 **Mind Sprint 48-Hour International Hackathon** *(IronXman, Unstop)*
+- 💼 **Full Stack Developer Intern** @ UNIKWORK (2026)
+- 🏆 **Smart India Hackathon 2025, Mind Sprint (IronXman), Hackamind**
 - ⭐ **CodeChef 2★** Rated Competitive Programmer
 - 🔬 Building **AI-powered full stack applications** with RAG pipelines
-- 🎓 Pre-final year student with **9.10 CGPA**
+- 🎓 Final-year student with **9.11 CGPA**
 
 </td>
 <td width="50%" valign="top">
@@ -55,9 +56,9 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 - 🔭 Building production-grade **MERN + AI** applications
 - 🌱 Exploring **RAG pipelines, LangChain, and vector databases**
-- 🤝 Open to **internships & collaborations** on innovative products
+- 🤝 Open to **internships & full-time collaborations** on innovative products
 - 💬 Ask me about **MERN Stack, DSA, AI Integration**
-- � Reach me at **sarthnarola007@gmail.com**
+- 📩 Reach me at **sarthnarola018@gmail.com**
 
 </td>
 </tr>
@@ -77,6 +78,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 </details>
@@ -87,11 +89,14 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
@@ -104,9 +109,10 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </div>
@@ -120,8 +126,9 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 </details>
@@ -133,18 +140,45 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-%232B84EA.svg?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 </details>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏢 Full Stack Developer Intern — UNIKWORK
+**May 2026 – June 2026 · Surat, Gujarat, India**
+
+Worked on the **UNIKWORK Dashboard**, a production-level project management platform used for task tracking and business workflow management, collaborating closely with senior frontend and backend developers in an agile environment.
+
+- 🧩 Built production-ready **React.js + Next.js** components with a scalable, reusable architecture
+- 🔌 Integrated REST APIs across project, client, employee, asset, task, and auth modules
+- 📋 Built dynamic task management features: board view, list view, task detail, and updates
+- 🔍 Implemented filtering, searching, sorting, pagination, and server-side data handling
+- 📱 Fixed responsive design issues across desktop, tablet, and mobile with pixel-perfect layouts
+- 🐞 Debugged frontend/backend issues, resolved API integration bugs, optimized performance
+- 🤝 Collaborated daily through code reviews, feature discussions, and debugging sessions
+
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `REST APIs` `Git` `Postman`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -155,7 +189,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <td width="50%" valign="top">
 
 ### 🤖 FinChatBot
-**AI Financial Document Analysis Platform**
+**AI Chatbot for Financial Document Analysis**
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -163,60 +197,67 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- 🔗 RAG pipeline with **LangChain + FAISS**
-- 🧠 Dual AI: **Groq + Google Gemini**
+- 🔗 RAG pipeline built with **LangChain + FAISS**
+- 🧠 Dual AI: **Groq LLM + Google Gemini**
 - ⚡ Real-time **WebSocket** chat
-- 📄 Multi-modal: PDF, Excel, CSV analysis
+- 📄 Works with **PDF, Excel, and CSV** files
+- 🔐 JWT auth keeps uploaded documents secure
+
+[🔗 Repo](https://github.com/Sarth00718/Financial-Chatbot-) · [🚀 Live](https://financial-chabot.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💰 Smart Expense Tracker
-**AI-Powered Financial Management**
+**Personal Finance Tracker with AI Insights**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- 🗣️ AI **conversational finance bot**
-- 📸 **OCR** receipt scanning
-- 📊 Spending analytics & health scoring
-- 🌐 Live at [smartexptrack.me](https://www.smartexptrack.me)
+- 🗣️ AI **conversational finance assistant**
+- 📸 **OCR** receipt scanning with Tesseract
+- 📊 Spending analytics with a health score
+- 📱 PWA-ready, works smoothly on mobile
+
+[🔗 Repo](https://github.com/Sarth00718/Smart-Expense-Tracker) · [🚀 Live](https://smart-expense-tracker-rho-eight.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Vastra
-**MERN E-Commerce Platform**
+### 👗 Vastra
+**Full MERN Stack Clothing Store**
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Razorpay](https://img.shields.io/badge/Razorpay-2B84EA?style=flat-square&logo=razorpay&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 - 💳 **Razorpay** payment integration
-- 🔐 **Firebase** authentication
-- 📋 Admin dashboard for management
-- 🚀 Deployed on **Render**
+- 🔐 **Firebase** email & social authentication
+- 🛍️ Cart, wishlist, and order tracking
+- 📋 Admin panel for product & stock management
+
+[🔗 Repo](https://github.com/Sarth00718/Vastra-cloth-shop) · [🚀 Live](https://vastra-cloth-shop-oirs.vercel.app/login)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 Real-Time Chat App
-**MERN WebSocket Messaging**
+**MERN WebSocket Messaging App**
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
-![MongoDB](https://img.shields.io/badge/Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - 📡 Real-time messaging with **Socket.io**
-- 🔄 State via **Redux Toolkit**
-- 🔑 Secure **JWT** authentication
-- ☁️ Cloud-hosted on **MongoDB Atlas**
+- 🔄 State managed with **Redux Toolkit**
+- 👥 Group chats and private one-on-one chats
+- ☁️ Hosted on **MongoDB Atlas**
+
+[🔗 Repo](https://github.com/Sarth00718/Real-Time-Chat-Application) · [🚀 Live](https://real-time-chat-application-eosin.vercel.app)
 
 </td>
 </tr>
@@ -231,21 +272,23 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <td width="100%">
 
 ### 🍽️ SmartBite — AI-Powered Meal Planner & Nutrition Assistant
-> 🏆 *Built for Mind Sprint 48-Hour International Hackathon (IronXman, Unstop)*
+> 🏆 *Mind Sprint 48-Hour International Hackathon (IronXman, Unstop)*
 
 <div align="center">
 
 | Feature | Description |
 |:---|:---|
-| 🤖 AI Recommendations | Personalized meal suggestions using ML models |
-| 📊 Nutrition Analysis | ML-based macro tracking & nutrition dashboard |
-| 📅 Weekly Optimization | Constraint logic programming for meal planning |
+| 🤖 AI Recommendations | Personalized meal suggestions via collaborative filtering & ML |
+| 📊 Nutrition Analysis | Real-time macro tracking & dietary goal monitoring |
+| 📅 Weekly Optimization | Meal planning respecting dietary restrictions |
 | 💬 AI Chat Assistant | Groq AI-powered nutrition advisor |
-| 🎯 K-Means Clustering | Meal diversity optimization algorithm |
+| 🎯 K-Means Clustering | Meal diversity optimization to avoid repetition |
 | 🛒 Smart Grocery Lists | Automated & budget-aware list generation |
-| 🌗 Dark/Light Mode | Responsive UI with PWA-ready architecture |
+| 🌗 Dark/Light Mode | Responsive UI with PWA offline support |
 
 </div>
+
+[🔗 Repo](https://github.com/Sarth00718/SmartBite)
 
 </td>
 </tr>
@@ -255,26 +298,50 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <tr>
 <td width="50%" valign="top">
 
-### 🚛 FleetFlow
-**Fleet & Logistics Management System**
-> *Built during a competitive development sprint*
+### 🎬 ClipCrafters
+**Turn Documents into Videos with AI**
+> 🏅 *Innovation Award — National Hackathon 2025*
 
-- 🗄️ **PostgreSQL**-based relational backend
-- 🔐 **RBAC** multi-level permissions
-- 📍 Real-time **vehicle & trip tracking**
-- 💹 Financial analytics (₹ currency)
+- 📄 Parses PDF, DOCX, PPTX, and TXT uploads
+- 🔗 RAG pipeline with **FAISS + SentenceTransformers**
+- ✍️ Groq LLM writes the video script
+- 🎞️ Script rendered into video via **MoviePy**
+- 🗣️ Murf TTS voiceover in multiple voices
+- 🎨 Scene visuals generated with Stability.ai
+- ☁️ Delivered fast via **Cloudinary CDN**
+
+[🔗 Repo](https://github.com/Sarth00718/ClipCrafters)
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 Exe$Man
-**Multi-Level Expense Management**
-> *Enterprise-style financial workflow*
+### 🚛 FleetFlow
+**Fleet & Logistics Management System**
+> *Built in a 72-hour development sprint*
 
-- 📸 **OCR** receipt scanning
-- ✅ Hierarchical **approval workflows**
-- 🔔 **Real-time** notifications
-- 📊 Multi-level financial reporting
+- 🗄️ **PostgreSQL**-based relational backend
+- 🔐 Role-based access for drivers, managers, admins
+- 📍 Live GPS tracking with geofence alerts
+- 💹 Finance dashboard with INR & tax breakdowns
+- 🔑 REST API with JWT auth & rate limiting
+
+[🔗 Repo](https://github.com/Sarth00718/FleetFlow) · [🚀 Live](https://fleet-flow-amber.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 💼 Exe$Man
+**Multi-Level Expense Approval & Management System**
+
+- 📸 OCR receipt scanning — no manual entry
+- ✅ Configurable multi-level approval workflows
+- 🔔 Real-time approval notifications
+- 📊 Department-wise budget vs. spend reports
+- 🚩 Auto-categorization with policy-violation flags
+
+[🔗 Repo](https://github.com/Sarth00718/Expense-Management) · [🚀 Live](https://expense-management-gamma.vercel.app/)
 
 </td>
 </tr>
@@ -289,34 +356,37 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <td align="center" width="33%">
 
 ### 🍷 Wine Quality Prediction
-
 **14 ML Models Compared**
 
 `XGBoost` · `LightGBM` · `CatBoost`
 
-📈 **~92–94% Accuracy**
+Feature engineering, stratified K-fold CV, and ensemble stacking.
+
+[🔗 Repo](https://github.com/Sarth00718/Wine-Quality-Prediction)
 
 </td>
 <td align="center" width="33%">
 
-### ❤️ Heart Attack Prediction
-
+### ❤️ Heart Attack Risk Prediction
 **Clinical Risk Classification**
 
-`KNN Classifier`
+`KNN` · `Logistic Regression` · `Decision Trees`
 
-📊 Statistical Preprocessing
+SMOTE for class imbalance, ROC-AUC evaluation.
+
+[🔗 Repo](https://github.com/Sarth00718/heart-attack-prediction)
 
 </td>
 <td align="center" width="33%">
 
 ### 🌍 Global Superstore Analytics
+**51K+ Record Retail Dataset**
 
-**51K+ Dataset Analysis**
+`Decision Tree` · `Regression` · `K-Means` · `Tableau`
 
-`Decision Tree` · `Regression` · `Clustering`
+Sales forecasting + interactive dashboards.
 
-📈 **84.89% Accuracy** + Tableau
+[🔗 Repo](https://github.com/Sarth00718/Data-Analysis-and-Visualization-of-Global_Superstore-Dataset)
 
 </td>
 </tr>
@@ -324,30 +394,49 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 ---
 
-## 🧩 DSA & Core Projects
+## 🧩 DSA & Core CS Projects
 
 <div align="center">
 
 | 📁 Project | 🔧 Tech Stack | 📝 Description |
 |:---|:---|:---|
-| **Greedy Algorithm Visualizer** | JavaScript | Interactive step-by-step algorithm visualization |
-| **Torrent Power Billing System** | C++ | Utility billing with automated calculations |
-| **Library Management System** | Java · OOP · File I/O | Complete CRUD with persistent file storage |
+| **[Tournament Graph Scheduling System](https://github.com/Sarth00718/Tournament-Graph-Scheduling-System)** | Python · FastAPI · NetworkX · React · D3.js | Welsh-Powell graph coloring + Dijkstra for conflict-free, travel-optimized tournament scheduling |
+| **[Greedy Algorithm Visualizer](https://github.com/Sarth00718/Greedy-Algorithm-Stimulation)** | JavaScript · Canvas | Step-by-step visualization of Activity Selection, Huffman Coding & Fractional Knapsack |
+| **[Torrent Power Billing System](https://github.com/Sarth00718/DSA-LL-Electricity-Billing-System)** | C++ · OOP · File Handling | Utility billing with automated calculations and persistent storage |
+| **[Library Management System](https://github.com/Sarth00718/Library-Management-System---Java)** | Java · OOP · File I/O | Complete CRUD with issue/return tracking and fine calculation |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Milestones
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
 | | Achievement | Detail |
 |:---|:---|:---|
-| 🎯 | **Amazon ML Summer School 2025** | Selected Participant |
-| 🏆 | **Mind Sprint 48-Hr Hackathon + SIH 2025** | International Hackathon — IronXman, Unstop, SIH 2025 |
-| ⭐ | **LeetCode + CodeChef 2★ + Codeforces** | Rated Competitive Programmer |
-| 🎓 | **CGPA 9.10** | B.Tech CSE — Nirma University |
+| 🏅 | **Amazon ML Summer School 2025** | Selected — supervised & deep learning, NLP, PGMs, recommendation systems |
+| 🇮🇳 | **Smart India Hackathon 2025** | Built an AI-based solution for a national problem statement |
+| ⚡ | **Mind Sprint Hackathon — IronXman** | 48-hour national hackathon on Unstop — full-stack AI project |
+| 💡 | **Hackamind Hackathon** | Nirma University — rapid prototyping under time pressure |
+| 🎬 | **ClipCrafters — Innovation Award** | National Hackathon 2025 |
+| 🎓 | **CGPA 9.11** | B.Tech Computer Engineering — Nirma University |
+
+</div>
+
+---
+
+## 🗺️ Journey Timeline
+
+<div align="center">
+
+| Year | Milestone |
+|:---:|:---|
+| **2023** | Started B.Tech in Computer Engineering at Nirma University (Roll No. 23BCE194) |
+| **2024** | Focused on competitive programming — Codeforces & LeetCode consistency |
+| **2025** | Smart India Hackathon 2025 · Mind Sprint 48-Hour Hackathon · **Selected for Amazon ML Summer School 2025** |
+| **2026** | Hackamind Hackathon @ Nirma · Full Stack Developer Internship @ **UNIKWORK** |
+| **2027** | Graduating with B.Tech CGPA 9.11 — **open to full-time roles from June 2027** |
 
 </div>
 
@@ -357,7 +446,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 <div align="center">
 
-<a href="https://www.codechef.com/users/sarthnarola007">
+<a href="https://www.codechef.com/users/mds_007">
 <img src="https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
 &nbsp;
@@ -365,7 +454,7 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/23bce194">
+<a href="https://leetcode.com/u/__sarth_narola_007/">
 <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
@@ -373,9 +462,9 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 | Platform | Handle | Status |
 |:---:|:---:|:---:|
-| ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat-square&logo=codechef&logoColor=white) | [sarthnarola007](https://www.codechef.com/users/sarthnarola007) | ⭐⭐ (2-Star) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat-square&logo=codechef&logoColor=white) | [mds_007](https://www.codechef.com/users/mds_007) | ⭐⭐ (2-Star) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white) | [sarthnarola007](https://codeforces.com/profile/sarthnarola007) | Active |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black) | [23bce194](https://leetcode.com/23bce194) | Active |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black) | [__sarth_narola_007](https://leetcode.com/u/__sarth_narola_007/) | Active |
 
 </div>
 
@@ -385,7 +474,6 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 <div align="center">
 
-<!-- STATS & LANGUAGES (using profile-summary-cards — reliable) -->
 <a href="https://github.com/Sarth00718">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarth00718&theme=tokyonight" height="180em"/>
 </a>
@@ -413,7 +501,6 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 <br/><br/>
 
-<!-- PROFILE DETAILS -->
 <a href="https://github.com/Sarth00718">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarth00718&theme=tokyonight" width="100%"/>
 </a>
@@ -434,7 +521,6 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ## 📈 Contribution Graph
@@ -471,9 +557,9 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:1a1b27,100:0d1117&height=120&section=footer"/>
 
-**💼 Open to internship opportunities and exciting collaborations**
+**💼 Open to full-time & internship opportunities — available from June 2027**
 
-📩 **[sarthnarola007@gmail.com](mailto:sarthnarola007@gmail.com)** · 🔗 **[LinkedIn](https://linkedin.com/in/sarth-narola-223002323)** · 🐙 **[GitHub](https://github.com/Sarth00718)**
+📩 **[sarthnarola018@gmail.com](mailto:sarthnarola018@gmail.com)** · 🔗 **[LinkedIn](https://linkedin.com/in/sarth-narola-223002323)** · 🐙 **[GitHub](https://github.com/Sarth00718)**
 
 <br/>
 
@@ -485,4 +571,4 @@ Focus:      Full Stack Development • AI/ML Integration • Competitive Program
 
 *⭐ If you find my work interesting, consider giving a star!*
 
-</div>         
+</div>
