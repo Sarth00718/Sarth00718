@@ -31,13 +31,15 @@
 
 <br/><br/>
 
+<!-- RESUME BUTTON -->
+<!-- Upload your files to Sarth00718/Sarth00718 (e.g. in an /assets folder) — these links point there by default -->
+<a href="https://github.com/Sarth00718/Sarth00718/raw/main/assets/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download-4FC3F7?style=for-the-badge&labelColor=1a1b27"/></a>
+<a href="https://github.com/Sarth00718/Sarth00718/raw/main/assets/cv.pdf"><img src="https://img.shields.io/badge/📋_CV-Download-4FC3F7?style=for-the-badge&labelColor=1a1b27"/></a>
+
+<br/><br/>
+
 <!-- SCROLL CUE -->
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="90"/>
-
-<br/>
-
-<!-- ANIMATED BANNER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500"/>
 
 </div>
 
@@ -56,6 +58,7 @@
 <a href="#-achievements--certifications">Achievements</a> •
 <a href="#️-journey-timeline">Timeline</a> •
 <a href="#-github-analytics">Stats</a> •
+<a href="#️-weekly-coding-activity">Coding Activity</a> •
 <a href="#-lets-connect">Contact</a>
 
 </div>
@@ -109,20 +112,11 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 
 ## 🔭 Currently Exploring
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="55%" valign="middle">
+<div align="center">
 
-[![Focus Ticker](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FC3F7&center=false&vCenter=true&repeat=true&width=500&height=140&lines=%F0%9F%A7%A9+Building+RAG+pipelines+with+LangChain;%F0%9F%A4%96+Shipping+AI-powered+MERN+apps;%F0%9F%93%9A+Deep-diving+into+vector+databases;%F0%9F%92%A1+Solving+DSA+daily+on+LeetCode;%F0%9F%9A%80+Prepping+for+full-time+SWE+roles)](https://git.io/typing-svg)
+[![Focus Ticker](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&repeat=true&width=600&height=140&lines=%F0%9F%A7%A9+Building+RAG+pipelines+with+LangChain;%F0%9F%A4%96+Shipping+AI-powered+MERN+apps;%F0%9F%93%9A+Deep-diving+into+vector+databases;%F0%9F%92%A1+Solving+DSA+daily+on+LeetCode;%F0%9F%9A%80+Prepping+for+full-time+SWE+roles)](https://git.io/typing-svg)
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="260"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
 
@@ -349,15 +343,17 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-| Feature | Description |
-|:---|:---|
-| 🤖 AI Recommendations | Personalized meal suggestions via collaborative filtering & ML |
-| 📊 Nutrition Analysis | Real-time macro tracking & dietary goal monitoring |
-| 📅 Weekly Optimization | Meal planning respecting dietary restrictions |
-| 💬 AI Chat Assistant | Groq AI-powered nutrition advisor |
-| 🎯 K-Means Clustering | Meal diversity optimization to avoid repetition |
-| 🛒 Smart Grocery Lists | Automated & budget-aware list generation |
-| 🌗 Dark/Light Mode | Responsive UI with PWA offline support |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+- 🤖 **AI meal recommendations** via collaborative filtering & ML
+- 🎯 **K-Means clustering** for meal diversity optimization
+- 💬 **Groq AI chat assistant** for real-time nutrition advice
+- 📊 Real-time macro tracking with a **weekly optimizer**
+- 🛒 Automated, **budget-aware grocery lists**
+- 🌗 Dark/light **PWA** with offline support
 
 [🔗 Repo](https://github.com/Sarth00718/SmartBite)
 
@@ -375,12 +371,17 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-- 📄 Parses PDF, DOCX, PPTX, and TXT uploads
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+- 📄 Parses **PDF, DOCX, PPTX, and TXT** uploads
 - 🔗 RAG pipeline with **FAISS + SentenceTransformers**
-- ✍️ Groq LLM writes the video script
+- ✍️ **Groq LLM** writes the video script
 - 🎞️ Script rendered into video via **MoviePy**
-- 🗣️ Murf TTS voiceover in multiple voices
-- 🎨 Scene visuals generated with Stability.ai
+- 🗣️ **Murf TTS** voiceover in multiple voices
+- 🎨 Scene visuals generated with **Stability.ai**
 - ☁️ Delivered fast via **Cloudinary CDN**
 
 [🔗 Repo](https://github.com/Sarth00718/ClipCrafters)
@@ -399,11 +400,16 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+
 - 🗄️ **PostgreSQL**-based relational backend
 - 🔐 Role-based access for drivers, managers, admins
-- 📍 Live GPS tracking with geofence alerts
+- 📍 Live **GPS tracking** with geofence alerts
 - 💹 Finance dashboard with INR & tax breakdowns
-- 🔑 REST API with JWT auth & rate limiting
+- 🔑 REST API with **JWT auth** & rate limiting
 
 [🔗 Repo](https://github.com/Sarth00718/FleetFlow) · [🚀 Live](https://fleet-flow-amber.vercel.app/)
 
@@ -420,11 +426,15 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-- 📸 OCR receipt scanning — no manual entry
-- ✅ Configurable multi-level approval workflows
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- 📸 **OCR receipt scanning** — no manual entry
+- ✅ Configurable **multi-level approval** workflows
 - 🔔 Real-time approval notifications
-- 📊 Department-wise budget vs. spend reports
-- 🚩 Auto-categorization with policy-violation flags
+- 📊 Department-wise **budget vs. spend** reports
+- 🚩 Auto-categorization with **policy-violation flags**
 
 [🔗 Repo](https://github.com/Sarth00718/Expense-Management) · [🚀 Live](https://expense-management-gamma.vercel.app/)
 
@@ -445,9 +455,15 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-`XGBoost` · `LightGBM` · `CatBoost`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
 
-Feature engineering, stratified K-fold CV, and ensemble stacking.
+- 🧪 **14 ML models** compared including XGBoost, LightGBM & CatBoost
+- 🛠️ Extensive **feature engineering** with stratified K-fold CV
+- 📈 **Ensemble stacking** for improved prediction accuracy
 
 [🔗 Repo](https://github.com/Sarth00718/Wine-Quality-Prediction)
 
@@ -464,9 +480,13 @@ Feature engineering, stratified K-fold CV, and ensemble stacking.
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-`KNN` · `Logistic Regression` · `Decision Trees`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-SMOTE for class imbalance, ROC-AUC evaluation.
+- 🧠 Classification with **KNN, Logistic Regression & Decision Trees**
+- ⚖️ **SMOTE** applied to handle class imbalance
+- 📊 Model evaluation using **ROC-AUC** scoring
 
 [🔗 Repo](https://github.com/Sarth00718/heart-attack-prediction)
 
@@ -483,9 +503,13 @@ SMOTE for class imbalance, ROC-AUC evaluation.
 </td></tr>
 <tr><td bgcolor="#0d1117">
 
-`Decision Tree` · `Regression` · `K-Means` · `Tableau`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-Sales forecasting + interactive dashboards.
+- 🌳 **Decision Tree & Regression** models for sales forecasting
+- 🎯 **K-Means clustering** for customer segmentation
+- 📊 Interactive **Tableau dashboards** on 51K+ records
 
 [🔗 Repo](https://github.com/Sarth00718/Data-Analysis-and-Visualization-of-Global_Superstore-Dataset)
 
@@ -498,16 +522,91 @@ Sales forecasting + interactive dashboards.
 
 ## 🧩 DSA & Core CS Projects
 
-<div align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
 
-| 📁 Project | 🔧 Tech Stack | 📝 Description |
-|:---|:---|:---|
-| **[Tournament Graph Scheduling System](https://github.com/Sarth00718/Tournament-Graph-Scheduling-System)** | Python · FastAPI · NetworkX · React · D3.js | Welsh-Powell graph coloring + Dijkstra for conflict-free, travel-optimized tournament scheduling |
-| **[Greedy Algorithm Visualizer](https://github.com/Sarth00718/Greedy-Algorithm-Stimulation)** | JavaScript · Canvas | Step-by-step visualization of Activity Selection, Huffman Coding & Fractional Knapsack |
-| **[Torrent Power Billing System](https://github.com/Sarth00718/DSA-LL-Electricity-Billing-System)** | C++ · OOP · File Handling | Utility billing with automated calculations and persistent storage |
-| **[Library Management System](https://github.com/Sarth00718/Library-Management-System---Java)** | Java · OOP · File I/O | Complete CRUD with issue/return tracking and fine calculation |
+**🏆 Tournament Graph Scheduling System** — *Conflict-Free Fixture Optimizer*
 
-</div>
+</td></tr>
+<tr><td bgcolor="#0d1117">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+
+- 🎨 **Welsh-Powell graph coloring** for conflict-free scheduling
+- 🗺️ **Dijkstra's algorithm** for travel-optimized fixtures
+- 📊 Interactive scheduling visualized with **D3.js**
+
+[🔗 Repo](https://github.com/Sarth00718/Tournament-Graph-Scheduling-System)
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**🎯 Greedy Algorithm Visualizer** — *Step-by-Step Algorithm Simulation*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+- 🎬 Visualizes **Activity Selection** step by step
+- 🌳 Interactive **Huffman Coding** tree builder
+- 🎒 Demonstrates **Fractional Knapsack** greedy choices
+
+[🔗 Repo](https://github.com/Sarth00718/Greedy-Algorithm-Stimulation)
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**⚡ Torrent Power Billing System** — *Electricity Billing with File Handling*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+- 🧮 Automated **utility billing calculations**
+- 💾 **Persistent storage** via file handling
+- 🏗️ Built with core **OOP principles**
+
+[🔗 Repo](https://github.com/Sarth00718/DSA-LL-Electricity-Billing-System)
+
+</td></tr>
+</table>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="1">
+<tr><td bgcolor="#132435">
+
+**📚 Library Management System** — *Complete CRUD with Fine Tracking*
+
+</td></tr>
+<tr><td bgcolor="#0d1117">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+- 📋 Full **CRUD operations** for library records
+- 🔄 **Issue/return tracking** with due-date logic
+- 💰 Automated **fine calculation** system
+
+[🔗 Repo](https://github.com/Sarth00718/Library-Management-System---Java)
+
+</td></tr>
+</table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
 
@@ -574,7 +673,7 @@ Sales forecasting + interactive dashboards.
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/__sarth_narola_007/">
-<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LeetCode-1653_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br/><br/>
@@ -583,7 +682,7 @@ Sales forecasting + interactive dashboards.
 |:---:|:---:|:---:|
 | ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat-square&logo=codechef&logoColor=white) | [mds_007](https://www.codechef.com/users/mds_007) | ⭐⭐ (2-Star) |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white) | [sarthnarola007](https://codeforces.com/profile/sarthnarola007) | Active |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black) | [__sarth_narola_007](https://leetcode.com/u/__sarth_narola_007/) | Active |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black) | [__sarth_narola_007](https://leetcode.com/u/__sarth_narola_007/) | 1,653 Rating |
 
 <br/>
 
@@ -621,7 +720,7 @@ Sales forecasting + interactive dashboards.
 
 <!-- STREAK STATS (animated counters) -->
 <a href="https://github.com/Sarth00718">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sarth00718&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=555555"/>
 </a>
 
 <br/><br/>
@@ -731,6 +830,70 @@ jobs:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
+## ⏱️ Weekly Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>🔧 Populates automatically once the WakaTime workflow below runs on the <code>Sarth00718/Sarth00718</code> repo — see setup steps.</sub>
+
+</div>
+
+<details>
+<summary>⚙️ <b>One-time setup: enable the WakaTime coding-activity graph above</b></summary>
+
+1. Create a free account at [wakatime.com](https://wakatime.com) and install the WakaTime extension/plugin for your editor(s) so it starts tracking coding time.
+2. Copy your **Secret API Key** from [wakatime.com/settings/api-key](https://wakatime.com/settings/api-key).
+3. In your **`Sarth00718/Sarth00718`** profile repo, go to **Settings → Secrets and variables → Actions** and add a new secret named `WAKATIME_API_KEY` with that key as the value.
+4. In the same repo, add these two placeholder lines to your `README.md` where you want the graph to appear (already added above):
+   ```md
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+   ```
+5. Create `.github/workflows/waka-readme.yml` with:
+
+```yaml
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TIME_ZONE: false
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_TIMEZONE: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: false
+          SHOW_LINES_OF_CODE: false
+          SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_UPDATED_DATE: true
+          UPDATE_TIME_ZONE: "Asia/Kolkata"
+```
+
+6. Push it — the action runs daily and fills in the section between the `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers with your weekly language, editor, and OS breakdown.
+
+</details>
+
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+
 ## 🌀 Let's Connect
 
 <div align="center">
@@ -738,6 +901,12 @@ jobs:
 **💼 Open to full-time & internship opportunities — available from June 2027**
 
 📩 **[sarthnarola018@gmail.com](mailto:sarthnarola018@gmail.com)** · 🔗 **[LinkedIn](https://linkedin.com/in/sarth-narola-223002323)** · 🐙 **[GitHub](https://github.com/Sarth00718)**
+
+<br/>
+
+<!-- Upload your files to Sarth00718/Sarth00718 (e.g. in an /assets folder) — these links point there by default -->
+[![Resume](https://img.shields.io/badge/📄_Download%20Resume-4FC3F7?style=for-the-badge&labelColor=1a1b27)](https://github.com/Sarth00718/Sarth00718/raw/main/assets/resume.pdf)
+[![CV](https://img.shields.io/badge/📋_Download%20CV-4FC3F7?style=for-the-badge&labelColor=1a1b27)](https://github.com/Sarth00718/Sarth00718/raw/main/assets/cv.pdf)
 
 <br/>
 
