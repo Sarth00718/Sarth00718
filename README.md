@@ -34,6 +34,11 @@
 <!-- SCROLL CUE -->
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="90"/>
 
+<br/>
+
+<!-- ANIMATED BANNER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
@@ -97,6 +102,27 @@ Status:     🟢 Open to Full-time & Internship opportunities from June 2027
 </table>
 
 <br clear="right"/>
+
+<div align="right"><a href="#readme-top">⬆ Back to top</a></div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+
+## 🔭 Currently Exploring
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="55%" valign="middle">
+
+[![Focus Ticker](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FC3F7&center=false&vCenter=true&repeat=true&width=500&height=140&lines=%F0%9F%A7%A9+Building+RAG+pipelines+with+LangChain;%F0%9F%A4%96+Shipping+AI-powered+MERN+apps;%F0%9F%93%9A+Deep-diving+into+vector+databases;%F0%9F%92%A1+Solving+DSA+daily+on+LeetCode;%F0%9F%9A%80+Prepping+for+full-time+SWE+roles)](https://git.io/typing-svg)
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="260"/>
+
+</td>
+</tr>
+</table>
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
 
@@ -485,7 +511,7 @@ Sales forecasting + interactive dashboards.
 
 <div align="right"><a href="#readme-top">⬆ Back to top</a></div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:4FC3F7,100:0d1117&height=4"/>
 
 ## 🏅 Achievements & Certifications
 
